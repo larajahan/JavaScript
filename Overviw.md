@@ -9,3 +9,19 @@
 _this italic_ dd
 
 *this is italic*
+
+<!-- Strong -->
+__This is Strong__ S
+**Strong **
+
+<!--Strike Through -->
+~~ This text~~ is  Strikethrough
+
+<!-- Line -->
+
+---
+
+___
+
+
+
