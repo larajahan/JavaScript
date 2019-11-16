@@ -1,27 +1,15 @@
-# heading 1
-## heading 2
-### heading 3
-#### heading 4
-##### heading 5
-###### heading 6 
 
-
-_this italic_ dd
-
-*this is italic*
-
-<!-- Strong -->
-__This is Strong__ S
-**Strong **
-
-<!--Strike Through -->
-~~ This text~~ is  Strikethrough
-
-<!-- Line -->
-
----
-
+## First Programm
 ___
+
+```First
+     <h3 id="title"></h3>
+
+    <script>
+           var name="Shahjahan ali"
+         document.getElementById('title').innerHTML=name;    
+    </script>
+```
 
 
 
